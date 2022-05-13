@@ -1,0 +1,75 @@
+h1 {
+  font-family: 'Montserrat-black';
+  font-size: 5rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+h2 {}
+
+h3 {
+  font-size: 2rem;
+}
+p{
+  font-family: Montserrat-black;
+}
+body {
+  background-color: lightblue;
+  position: absolute;
+  margin: 0px 80px 100px 100px;
+  align-content: left;
+  font-family: "Montserrat";
+}
+/* Feature-Box */
+.staffstuff{
+
+}
+/* Images */
+.Title-IMG {
+  width: 95%;
+}
+.joelspic {
+  float:
+  width: 300%;
+ margin-right:
+}
+
+/* qoute button */
+.qoute-button {
+  margin: 5% 3% 5% 0%;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+#title {
+  background-color: lightblue;
+  color: white;
+}
+
+.container-fluid {
+  padding: 9% 15%
+}
+
+.nav-link {
+  font-size: 25px;
+  font-family: 'Montserrat-black';
+  font-weight: bold;
+}
+
+.navbar-brand {
+  padding: 20;
+}
+
+.navbar-toggler-icon {}
