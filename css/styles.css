@@ -41,7 +41,8 @@ font-size: 1.5rem;
 
 }
 
-.staffstuff{
+#staff {
+  align-content: center;
 
 }
 
@@ -55,7 +56,8 @@ padding: 7% 15%;
 }
 .joelspic {
   width: 400px;
- margin-right:
+ align-content: center !important;
+ margin: auto;
 }
 
 .icon{
