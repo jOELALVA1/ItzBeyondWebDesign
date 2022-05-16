@@ -5,13 +5,23 @@ h1 {
   line-height: 1.5;
 }
 
-h2 {}
+h2 {
+text-align: center;
+padding-top: 10px;
+color: white;
+}
 
 h3 {
   font-size: 2rem;
+  font-family: Montserrat-bold;
+  font-weight: bolder;
 }
 p{
   font-family: Montserrat-black;
+  color:
+  padding: 0;
+  font-size: 1.5rem;
+  text-align: center;
 }
 body {
   background-color: lightblue;
@@ -20,8 +30,23 @@ body {
   align-content: left;
   font-family: "Montserrat";
 }
-/* Feature-Box */
+a{
+  color: white;
+}
+/* Features */
+.feature-box{
+text-align: center;
+line-height: 1;
+font-size: 1.5rem;
+
+}
+
 .staffstuff{
+
+}
+
+#features{
+padding: 7% 15%;
 
 }
 /* Images */
@@ -29,9 +54,29 @@ body {
   width: 95%;
 }
 .joelspic {
-  float:
-  width: 300%;
+  width: 400px;
  margin-right:
+}
+
+.icon{
+  color: white;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #6495ED;
+}
+/* Pricing */
+.goldclass{
+  color: #ffdd1a;
+   text-shadow: 3px 3px 3px white;
+  font-weight: bolder;
+}
+.star{
+  color: white;
+}
+.gstar{
+  color: #ffdd1a;
+   text-shadow: 3px 3px 3px white;
 }
 
 /* qoute button */
@@ -73,3 +118,12 @@ body {
 }
 
 .navbar-toggler-icon {}
+  /* bottom statements */
+.exitstatement{
+margin: 30px 50px;
+text-align: center;
+}
+.footer2 {
+font-family: 'Montserrat-white' white !important;
+color: white;
+}
