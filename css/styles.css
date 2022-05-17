@@ -33,22 +33,24 @@ body {
 a{
   color: white;
 }
+/* STAFF SECTION */
+#staff {
+padding: 10% 10%;
+text-align: center;
+
+margin: auto;
+display: block;
+}
+
 /* Features */
 .feature-box{
 text-align: center;
 line-height: 1;
 font-size: 1.5rem;
-
-}
-
-#staff {
-  align-content: center;
-
 }
 
 #features{
 padding: 7% 15%;
-
 }
 /* Images */
 .Title-IMG {
